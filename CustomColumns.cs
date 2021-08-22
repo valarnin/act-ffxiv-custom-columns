@@ -102,12 +102,16 @@ namespace ACT_Plugin
       {
         ExportName = "rezes",
         Name = "Rezes",
-        Description = "Number of ressurections cast by the combatant.",
+        Description = "Number of resurrections cast by the combatant.",
         OutgoingAbilities = new List<string>(){
           "Resurrection",
           "Raise",
           "Ascend",
-          "Angel Whisper"
+          "Angel Whisper",
+          "Verraise",
+          "Lost Sacrifice",
+          "Lost Arise",
+          "Resistance Phoenix"
         },
       });
       Columns.Add(new CustomColumnDef()
