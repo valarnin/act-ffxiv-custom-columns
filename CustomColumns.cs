@@ -111,7 +111,8 @@ namespace ACT_Plugin
           "Verraise",
           "Lost Sacrifice",
           "Lost Arise",
-          "Resistance Phoenix"
+          "Resistance Phoenix",
+          "Egeiro"
         },
       });
       Columns.Add(new CustomColumnDef()
